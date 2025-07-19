@@ -1,0 +1,7 @@
+Species,Leaf_Length,Leaf_Width,Leaf_Shape,Leaf_Margin,Bark_Texture,Flower_Color,Height,Latitude,Longitude
+Oak,12.5,7.8,Oval,Serrated,Furrowed,Brown,25,45.5,-122.6
+Maple,10.2,12.3,Palmate,Lobed,Smooth,Green,20,47.6,-122.3
+Pine,8.0,0.2,Needle,Smooth,Scales,Yellow,30,44.0,-123.1
+Birch,7.5,5.5,Oval,Serrated,Peeling,White,15,46.2,-121.8
+Redwood,5.0,0.3,Needle,Smooth,Fibrous,Brown,100,41.8,-124.1
+Willow,15.0,1.2,Lanceolate,Serrated,Furrowed,Green,12,48.7,-122.4
